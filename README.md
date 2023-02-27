@@ -6,5 +6,5 @@ tweet and deployed the model on Hugging Face. Developed with Tensorflow, Keras, 
 You can try the deployed app on the following link:
 https://huggingface.co/spaces/omkarb09/gpt2_sentiment
 
-Dataset used to train the bare gpt-2 model was a subset of 3000 observations (1500 for each target) from the following dataset:
+Dataset used to train the bare gpt-2 model was a subset of 3000 tweets (1500 for each class) from the following dataset:
 https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download
